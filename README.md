@@ -36,7 +36,7 @@ Develop: [![Build Status](https://travis-ci.org/PHPOffice/PHPExcel.png?branch=de
 *Note:* PHP 5.6.29 has [a bug](https://bugs.php.net/bug.php?id=73530) that
 prevents SQLite3 caching to work correctly. Use a newer (or older) versions of
 PHP if you need SQLite3 caching.
-
+##
 ## Want to contribute?
 
 PHPExcel developement for next version has moved under its new name PhpSpreadsheet. So please head over to [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet#want-to-contribute) to contribute patches and features.
